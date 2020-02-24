@@ -1,0 +1,26 @@
+_repo: Some-Account-of-the-Oxford-University-Press-1468-1921_61421
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oxford University Press
+    alias: Clarendon Press
+    gutenberg_agent_id: '51417'
+    url: http://www.gutenberg.org/2009/agents/51417
+    wikipedia: https://en.wikipedia.org/wiki/Oxford_University_Press
+description: ''
+gutenberg_issued: '2020-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61421'
+  lccn: '22020657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Oxford University Press'
+- !lcsh 'Printing -- England -- Oxford -- History'
+- GITenberg
+title: Some Account of the Oxford University Press, 1468-1921
+url: http://www.gutenberg.org/ebooks/61421
